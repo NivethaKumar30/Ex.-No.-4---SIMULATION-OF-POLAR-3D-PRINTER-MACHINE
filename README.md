@@ -32,7 +32,8 @@
 ### Register Number:212222230102
 
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/9e41de91-6dcc-4352-ab44-443028d3ac1a)
+![I 1 ](https://github.com/NivethaKumar30/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/119559844/ac0ceea5-8e6b-4a73-90ad-912d2a3e86e1)
+
 
 Y-Axis Base :
 In a Polar 3D printer, the Y-axis base is a circular platform known as the rotary build platform. This platform rotates about a central axis, and the print head moves in the X and Z directions to create the object being printed.
@@ -73,7 +74,8 @@ The extruder is a critical component responsible for the controlled deposition o
 Filament :
 Filament is a long, thin strand or thread of material that is fed into the printer's extruder, melted, and then extruded to build up the layers of the printed object.
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/88273b69-4e7d-4f42-9115-fb07ac22e4ec)
+![I 2](https://github.com/NivethaKumar30/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/119559844/667b69dd-7e4b-4335-860d-a8134ab03c86)
+
 
 
 ## Result: 
